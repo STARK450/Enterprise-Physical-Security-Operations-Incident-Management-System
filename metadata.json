@@ -1,0 +1,7 @@
+{
+  "name": "SecureOps Enterprise",
+  "description": "A comprehensive physical security operations and incident management system designed for corporate environments, featuring visitor management, guard force coordination, emergency response, and compliance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
